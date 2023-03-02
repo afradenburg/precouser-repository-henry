@@ -1,2 +1,2 @@
-# precouser-repository-henry
-este es una repositorio de prueba del prepcourse de henry
+est proyecto es solo una prueba para crear un repositorio en la nube a local en mi ordenador 1
+esperemos funcione ahora si
